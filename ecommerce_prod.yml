@@ -1,5 +1,5 @@
 token:
   expiration_time: 864000000
-  secret: my_token_default
+  secret: my_token_prod
 gateway:
   ip: 168.154.231.121
