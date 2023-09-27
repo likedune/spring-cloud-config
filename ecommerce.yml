@@ -1,5 +1,5 @@
 token:
-  expiration_time: 864
-  secret: user_token_ecommerce1
+  expiration_time: 864000000
+  secret: my_token
 gateway:
   ip: 168.154.231.121
