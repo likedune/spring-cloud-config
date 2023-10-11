@@ -10,3 +10,6 @@ token:
 
 gateway:
   ip: 168.154.231.121
+
+order_service:
+  url: http://127.0.0.1:8888/order-service/%s/orders
